@@ -1,0 +1,52 @@
+PROTOCOL_SELFTEST PASS packet_bytes=48
+ESPNOW_READY mac=B8:1F:3F:C5:0A:84 protocol=1
+DISCOVERY_START channels=1-11 manual=0
+TOUCH_RAW count=0 x=0 y=0 irq=1
+WALLE_REMOTE v1.1 ui=remote radio=1 linked=0 pairing=0 channel=1 found=0 battery_mv=4152 battery_pct=96 command=-1 uptime=6002
+WALLE_REMOTE v1.1 ui=remote radio=1 linked=0 pairing=0 channel=8 found=0 battery_mv=4152 battery_pct=96 command=-1 uptime=9002
+WALLE_REMOTE v1.1 ui=remote radio=1 linked=0 pairing=0 channel=1 found=0 battery_mv=4152 battery_pct=96 command=-1 uptime=12002
+WALLE_REMOTE v1.1 ui=remote radio=1 linked=0 pairing=0 channel=5 found=0 battery_mv=4152 battery_pct=96 command=-1 uptime=15003
+WALLE_REMOTE v1.1 ui=remote radio=1 linked=0 pairing=0 channel=9 found=0 battery_mv=4152 battery_pct=96 command=-1 uptime=18003
+WALLE_REMOTE v1.1 ui=remote radio=1 linked=0 pairing=0 channel=2 found=0 battery_mv=4152 battery_pct=96 command=-1 uptime=21003
+WALLE_REMOTE v1.1 ui=remote radio=1 linked=0 pairing=0 channel=6 found=0 battery_mv=4152 battery_pct=96 command=-1 uptime=24004
+TOUCH_RAW count=1 x=0 y=446 irq=1
+TOUCH_RAW count=1 x=0 y=446 irq=1
+TOUCH_RAW count=2 x=0 y=446 irq=1
+TOUCH_RAW count=1 x=0 y=446 irq=1
+TOUCH_RAW count=2 x=0 y=446 irq=1
+TOUCH_RAW count=2 x=0 y=446 irq=1
+TOUCH_RAW count=2 x=0 y=446 irq=1
+TOUCH_RAW count=2 x=0 y=446 irq=1
+WALLE_REMOTE v1.1 ui=remote radio=1 linked=0 pairing=0 channel=10 found=0 battery_mv=4152 battery_pct=96 command=-1 uptime=27006
+TOUCH_RAW count=2 x=0 y=446 irq=1
+TOUCH_RAW count=2 x=0 y=446 irq=1
+TOUCH_RAW count=2 x=0 y=446 irq=1
+TOUCH_RAW count=2 x=0 y=446 irq=1
+TOUCH_RAW count=2 x=1 y=446 irq=1
+TOUCH_RAW count=2 x=24 y=448 irq=1
+TOUCH_RAW count=2 x=36 y=448 irq=1
+TOUCH_RAW count=2 x=30 y=448 irq=1
+TOUCH_RAW count=2 x=51 y=448 irq=1
+TOUCH_RAW count=2 x=66 y=448 irq=1
+TOUCH_RAW count=2 x=71 y=448 irq=1
+TOUCH_RAW count=2 x=153 y=457 irq=1
+TOUCH_RAW count=2 x=192 y=469 irq=1
+TOUCH_RAW count=1 x=198 y=469 irq=1
+BUTTON index=2 x=10 y=198 linked=0
+TOUCH_RAW count=1 x=227 y=460 irq=1
+WALLE_REMOTE v1.1 ui=remote radio=1 linked=0 pairing=0 channel=2 found=0 battery_mv=4152 battery_pct=96 command=-1 uptime=30006
+TOUCH_RAW count=1 x=233 y=456 irq=1
+TOUCH_RAW count=1 x=235 y=455 irq=1
+BUTTON index=-1 x=19 y=251 linked=0
+TOUCH_RAW count=1 x=256 y=466 irq=1
+TOUCH_RAW count=2 x=157 y=474 irq=1
+TOUCH_RAW count=1 x=113 y=474 irq=1
+TOUCH_RAW count=0 x=8 y=458 irq=1
+WALLE_REMOTE v1.1 ui=remote radio=1 linked=0 pairing=0 channel=6 found=0 battery_mv=4152 battery_pct=96 command=-1 uptime=33006
+WALLE_REMOTE v1.1 ui=remote radio=1 linked=0 pairing=0 channel=10 found=0 battery_mv=4152 battery_pct=96 command=-1 uptime=36007
+WALLE_REMOTE v1.1 ui=remote radio=1 linked=0 pairing=0 channel=3 found=0 battery_mv=4153 battery_pct=96 command=-1 uptime=39009
+WALLE_REMOTE v1.1 ui=remote radio=1 linked=0 pairing=0 channel=7 found=0 battery_mv=4153 battery_pct=96 command=-1 uptime=42009
+WALLE_REMOTE v1.1 ui=remote radio=1 linked=0 pairing=0 channel=11 found=0 battery_mv=4152 battery_pct=96 command=-1 uptime=45010
+WALLE_REMOTE v1.1 ui=remote radio=1 linked=0 pairing=0 channel=4 found=0 battery_mv=4153 battery_pct=96 command=-1 uptime=48010
+WALLE_REMOTE v1.1 ui=remote radio=1 linked=0 pairing=0 channel=8 found=0 battery_mv=4153 battery_pct=96 command=-1 uptime=51010
+

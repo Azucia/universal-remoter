@@ -1,0 +1,31 @@
+#pragma once
+#include <Arduino.h>
+extern const uint16_t link_state_0[6840] PROGMEM;
+extern const uint16_t link_state_1[6840] PROGMEM;
+extern const uint16_t link_state_2[6840] PROGMEM;
+extern const uint16_t link_state_3[6840] PROGMEM;
+extern const uint16_t link_state_4[6840] PROGMEM;
+extern const uint16_t battery_glass[3384] PROGMEM;
+extern const uint16_t button_normal_0[8000] PROGMEM;
+extern const uint16_t button_pressed_0[8000] PROGMEM;
+extern const uint16_t button_normal_1[8000] PROGMEM;
+extern const uint16_t button_pressed_1[8000] PROGMEM;
+extern const uint16_t button_normal_2[8000] PROGMEM;
+extern const uint16_t button_pressed_2[8000] PROGMEM;
+extern const uint16_t button_normal_3[8000] PROGMEM;
+extern const uint16_t button_pressed_3[8000] PROGMEM;
+extern const uint16_t button_normal_4[10752] PROGMEM;
+extern const uint16_t button_pressed_4[10752] PROGMEM;
+extern const uint16_t button_normal_5[10752] PROGMEM;
+extern const uint16_t button_pressed_5[10752] PROGMEM;
+extern const uint16_t button_normal_6[10752] PROGMEM;
+extern const uint16_t button_pressed_6[10752] PROGMEM;
+extern const uint16_t button_normal_7[10752] PROGMEM;
+extern const uint16_t button_pressed_7[10752] PROGMEM;
+extern const uint16_t remote_main[153600] PROGMEM;
+extern const uint16_t pair_empty[153600] PROGMEM;
+extern const uint16_t pair_list[153600] PROGMEM;
+extern const uint16_t mode_row_0[15936] PROGMEM;
+extern const uint16_t mode_row_1[15936] PROGMEM;
+extern const uint16_t settings_page[153600] PROGMEM;
+extern const uint16_t boot_logo[153600] PROGMEM;

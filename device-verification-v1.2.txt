@@ -1,0 +1,8 @@
+PROTOCOL_SELFTEST PASS packet_bytes=48
+ESPNOW_READY mac=B8:1F:3F:C5:0A:84 protocol=1
+DISCOVERY_START channels=1-11 manual=0
+TOUCH_RAW count=0 x=0 y=0 irq=1
+WALLE_REMOTE v1.2 ui=remote radio=1 linked=0 pairing=0 channel=4 found=0 battery_mv=4161 battery_pct=97 command=-1 uptime=21007
+WALLE_REMOTE v1.2 ui=remote radio=1 linked=0 pairing=0 channel=7 found=0 battery_mv=4161 battery_pct=97 command=-1 uptime=24007
+WALLE_REMOTE v1.2 ui=remote radio=1 linked=0 pairing=0 channel=11 found=0 battery_mv=4163 battery_pct=97 command=-1 uptime=27007
+

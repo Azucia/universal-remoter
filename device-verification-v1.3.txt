@@ -1,0 +1,58 @@
+PROTOCOL_SELFTEST PASS packet_bytes=48
+ESPNOW_READY mac=B8:1F:3F:C5:0A:84 protocol=1
+DISCOVERY_START channels=1-11 manual=0
+BOOT_ANIMATION_DONE direction=left_to_right duration_ms=1207 updates=75 longest_draw_us=2293
+TOUCH_RAW count=0 x=0 y=0 irq=1
+BUTTON index=2 x=41 y=231 linked=0
+WALLE_REMOTE v1.3 ui=remote radio=1 linked=0 pairing=0 channel=2 found=0 battery_mv=4162 battery_pct=97 command=-1 uptime=16815
+TOUCH_RAW count=0 x=231 y=438 irq=1
+TOUCH_RAW count=1 x=42 y=336 irq=1
+DISCOVERY_START channels=1-11 manual=1
+TOUCH_RAW count=0 x=45 y=335 irq=1
+TOUCH_RAW count=1 x=96 y=90 irq=1
+TOUCH_RAW count=0 x=96 y=90 irq=1
+TOUCH_RAW count=1 x=81 y=77 irq=1
+DISCOVERY_START channels=1-11 manual=0
+TOUCH_RAW count=0 x=81 y=77 irq=1
+TOUCH_RAW count=1 x=123 y=325 irq=1
+BUTTON index=0 x=154 y=123 linked=0
+TOUCH_RAW count=0 x=123 y=325 irq=1
+TOUCH_RAW count=1 x=131 y=320 irq=1
+BUTTON index=0 x=159 y=131 linked=0
+TOUCH_RAW count=0 x=131 y=320 irq=1
+TOUCH_RAW count=1 x=206 y=389 irq=1
+TOUCH_RAW count=0 x=206 y=389 irq=1
+WALLE_REMOTE v1.3 ui=remote radio=1 linked=0 pairing=0 channel=8 found=0 battery_mv=4162 battery_pct=97 command=-1 uptime=19816
+TOUCH_RAW count=1 x=215 y=399 irq=1
+BUTTON index=2 x=80 y=215 linked=0
+TOUCH_RAW count=0 x=215 y=399 irq=1
+TOUCH_RAW count=1 x=212 y=406 irq=1
+BUTTON index=2 x=73 y=212 linked=0
+TOUCH_RAW count=0 x=212 y=406 irq=1
+TOUCH_RAW count=1 x=215 y=405 irq=1
+BUTTON index=2 x=74 y=215 linked=0
+TOUCH_RAW count=1 x=215 y=405 irq=1
+TOUCH_RAW count=0 x=215 y=405 irq=1
+TOUCH_RAW count=1 x=260 y=360 irq=1
+BUTTON index=1 x=119 y=260 linked=0
+TOUCH_RAW count=0 x=260 y=360 irq=1
+TOUCH_RAW count=1 x=269 y=334 irq=1
+BUTTON index=1 x=145 y=269 linked=0
+TOUCH_RAW count=0 x=269 y=334 irq=1
+TOUCH_RAW count=1 x=266 y=334 irq=1
+BUTTON index=1 x=145 y=266 linked=0
+TOUCH_RAW count=0 x=266 y=334 irq=1
+TOUCH_RAW count=1 x=278 y=327 irq=1
+BUTTON index=1 x=152 y=278 linked=0
+TOUCH_RAW count=0 x=278 y=327 irq=1
+TOUCH_RAW count=1 x=273 y=323 irq=1
+BUTTON index=1 x=156 y=273 linked=0
+WALLE_REMOTE v1.3 ui=remote radio=1 linked=0 pairing=0 channel=1 found=0 battery_mv=4164 battery_pct=97 command=-1 uptime=22817
+TOUCH_RAW count=0 x=272 y=322 irq=1
+TOUCH_RAW count=1 x=279 y=327 irq=1
+BUTTON index=1 x=152 y=279 linked=0
+TOUCH_RAW count=0 x=279 y=327 irq=1
+TOUCH_RAW count=1 x=47 y=316 irq=1
+DISCOVERY_START channels=1-11 manual=1
+TOUCH_RAW count=0 x=47 y=316 irq=1
+
